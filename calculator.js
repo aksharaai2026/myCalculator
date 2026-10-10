@@ -1,9 +1,6 @@
-let studentName="Mohini"
-let marks=85
-let isPassed=true
-let City
-console.log(typeof studentName)
-console.log(typeof marks)
-console.log(typeof isPassed)
-console.log(typeof city)
-
+let a="10"
+let b=5
+console.log(a+b)
+console.log(typeof a)
+console.log(Number(a)+b)
+console.log(typeof Number (a))
