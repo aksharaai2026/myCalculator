@@ -1,6 +1,9 @@
-let num1=25
-let num2=5
-console.log(num1+num2)
-console.log(num1-num2)
-console.log(num1*num2)
-console.log(num1/num2)
+let studentName="Mohini"
+let marks=85
+let isPassed=true
+let City
+console.log(typeof studentName)
+console.log(typeof marks)
+console.log(typeof isPassed)
+console.log(typeof city)
+
